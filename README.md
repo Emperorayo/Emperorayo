@@ -2,6 +2,7 @@
 
 
 🔭 My experience
+
 I have worked on several personal and professional projects, where I gained experience in:
 
 Developing responsive and accessible websites and applications with HTML, CSS, and JavaScript
@@ -11,6 +12,8 @@ Testing and debugging code to ensure quality and reliability
 
 - 🌱 I’m currently learning ReactJs
 - 👯 I’m looking to collaborate on open source projects...
+
+
 🚀 What I'm looking for
 I'm seeking opportunities to work with a team of experienced developers to continue growing my skills and contribute to the development of innovative, user-focused web applications.
 - 📫 How to reach me:
