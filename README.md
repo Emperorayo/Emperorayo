@@ -23,7 +23,7 @@ I'm seeking opportunities to work with a team of experienced developers to conti
 
 email : sokunbimichael84@gmail.com 
 
-twitter : ayobamichaell
+twitter : https://twitter.com/ayobamichaell
 
 website : https://my-port-omega.vercel.app/
 - ⚡ Fun fact: I'm either debugging or listening to music or doing both.
