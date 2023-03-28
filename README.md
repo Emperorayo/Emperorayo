@@ -48,9 +48,7 @@ https://github.com/Emperorayo/Music-Request-App
 ![Profile views counter](https://komarev.com/ghpvc/?username=Emperorayo&&style=flat-square)  
   
 
-<!-- BLOG-POST-LIST:START -->  
-If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
-<!-- BLOG-POST-LIST:END -->  
+  
 
 ![Listening to on Spotify](https://spotify-github-profile.vercel.app/api/view?uid=31rcvuayghl7663dufe4vzeufddm&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)  
 
