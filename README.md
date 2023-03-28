@@ -17,7 +17,7 @@ https://github.com/Emperorayo/Music-Request-App
 - ❓ Ask me about anything related to MERN stack and related technologies  
   
 
-- ⚡Either coding or debugging or doing both   
+- ⚡Either coding or listening to music or doing both   
   
 
 <img src="https://github-readme-stats.vercel.app/api?username=Emperorayo&show_icons=true&count_private=true&hide_border=true" align="left" />  
