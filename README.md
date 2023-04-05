@@ -12,10 +12,6 @@ https://github.com/Emperorayo/Music-Request-App
   
 
 - 🌱 I’m currently learning Reactjs  
-  
-
-- ❓ Ask me about anything related to MERN stack and related technologies  
-  
 
 - ⚡Either coding or listening to music or doing both   
   
