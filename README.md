@@ -6,8 +6,6 @@
 ### <div align="center">Hi there👋 i'm Michael a junior frontend developer with a passion for building user-friendly websites and web applications. With a solid foundation in HTML, CSS, and JavaScript, I am excited to continue expanding my skills and learning new technologies. I'm excited to collaborate with teams that share my vision of creating fast, responsive, and accessible web experiences</div>  
   
 
-- 🔭 I’m currently working on [Music Request App])
-https://github.com/Emperorayo/Music-Request-App
   
   
 
