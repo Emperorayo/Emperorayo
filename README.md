@@ -12,7 +12,7 @@
 - 🌱 I’m currently learning Reactjs  
 
 - ⚡Either coding or listening to music or doing both   
-- <a href="https://wakatime.com/badge/user/4dc46404-f5da-47ba-9fb7-4037c2d2dc96/project/75644aea-a626-454f-a71a-2d927528e2ad"><img src="https://wakatime.com/badge/user/4dc46404-f5da-47ba-9fb7-4037c2d2dc96/project/75644aea-a626-454f-a71a-2d927528e2ad.svg" alt="wakatime"></a>
+
   
 
 <img src="https://github-readme-stats.vercel.app/api?username=Emperorayo&show_icons=true&count_private=true&hide_border=true" align="left" />  
